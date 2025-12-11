@@ -39,6 +39,6 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 
 ## See also:
 [Hong Kong Signs Pack Write Everywhere](https://mods.paradoxplaza.com/mods/125896/Windows/)  
-[UK Signs Pack Write Everywhere](https://mods.paradoxplaza.com/mods/127797/Windows)
+[UK Signs Pack Write Everywhere](https://mods.paradoxplaza.com/mods/127797/Windows)  
 [Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)  
 [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)
