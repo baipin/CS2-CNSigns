@@ -1,2 +1,3 @@
+<meta charset="UTF-8">
 # The module is under debelopment, but you can subscribe to take an early look!
-# ´ËÄ£×éÕıÔÚ¿ª·¢ÖĞ£¬µ«ÊÇÄã¿ÉÒÔÏÈ¶©ÔÄ¿´¿´ÔçÆÚ²âÊÔ°æ±¾¡£
+# æ­¤æ¨¡ç»„æ­£åœ¨å¼€å‘ä¸­ï¼Œä½†æ˜¯ä½ å¯ä»¥å…ˆè®¢é˜…çœ‹çœ‹æ—©æœŸæµ‹è¯•ç‰ˆæœ¬ã€‚
