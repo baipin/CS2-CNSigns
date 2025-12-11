@@ -1,2 +1,2 @@
-#  v0.0.3
-- Finished the rename for all warning signs and no signs.
+#  v0.0.4
+- Finished the rename for all micro signs and lane signs.
