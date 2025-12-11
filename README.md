@@ -7,8 +7,7 @@
 * Strictly made according to China National Standard GB_5768.2-2022.  
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
 
-## Important: No Chinese font pre-existed, you need to import by yourself...
-## 重要：本模组不含预装中文模组，请根据以下步骤自行下载导入：
+## Important: No Chinese font pre-existed, you need to import by yourself...重要：本模组不含预装中文模组，请根据以下步骤自行下载导入：
 Due to the copyright issue, please download Chinese font and import by yourself.  
 出于版权原因（因为中国路牌的中文字体为标准黑体，我并未找到比较适合的免费开放字体），请自行下载导入中文字体。  
 * Copy the .ttf file to C:\Users\\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
