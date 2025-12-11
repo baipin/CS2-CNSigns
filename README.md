@@ -1,3 +1,44 @@
-This project can be used to generate modules for Write Everywhere (Cities Skylines 2 version). You can share text placement layouts (default and city-importable), atlases and fonts (beware the copyrights!).
+﻿<h1 align="center"><a href="https://baipin.pw" target="_blank">China Signs Pack</a></h1>
 
-More instructions about how to use this project is under the _BaseModule folder. Don't forget renaming your project/solution after creating it from this template.
+> a Mod based on Write Everywhere of Cities:skylines2.
+
+### Outstanding Features
+* Covering various kinds of traffic signs in Chinese Mainland.
+* **Very convenient to use.** The template is already there, and you just need to change the texts.
+
+## Important: No Chinese font pre-existed, you need to import by yourself...
+Due to the copyright issue, please download Chinese font and import by yourself.  
+* Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
+* Enter your savegame.
+* Click the Write Everywhere buttom on the left-top (A circled "W").
+* Choose "CITY FONTS" tab.
+* Click "+", select your ttf file, click "OK".
+* You are done!
+
+## Recommended structures
+For overhead direction signs, you can use one or both of the following assets:
+* [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any) by me.
+* [Highway Sign Structures](https://mods.paradoxplaza.com/mods/127499/Any) by lolok.
+  
+There might be some differences for pre-layouts, but you can simply adjust manually.
+
+## How to Use
+1️⃣Install "Write Everywhere" first.(See link below)  
+2️⃣Place a road structure (e.g. "European No Entry sign" for Round Micro Signs) that matches your sign type.  
+3️⃣Open the Write Everywhere menu (CTRL + Shift + W).  
+4️⃣Click the structure you want to edit.  
+5️⃣Click Import layout from XML at root...  
+6️⃣Choose the puzzle-piece icon (Templates from mods).  
+7️⃣Search for the "baipinCNS" Mod.  
+8️⃣Select a layout and customize it to your liking.  
+
+## Customize and Save Signs
+1️⃣Select the root object → Save and Export as XML.  
+2️⃣Templates can be reused across cities and saves.  
+3️⃣All templates are stored locally so no re-import required.  
+
+## See also:
+[Hong Kong Signs Pack Write Everywhere](https://mods.paradoxplaza.com/mods/125896/Windows/)  
+[UK Signs Pack Write Everywhere](https://mods.paradoxplaza.com/mods/127797/Windows)
+[Directional Traffic Lights Write Everywhere](https://mods.paradoxplaza.com/mods/127268/Windows/)  
+[Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)
