@@ -8,7 +8,7 @@
 
 ## Important: No Chinese font pre-existed, you need to import by yourself...
 Due to the copyright issue, please download Chinese font and import by yourself.  
-* Copy the .ttf file to C:\Users\\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
+* Copy the .ttf file to C:\Users\\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
 * Enter your savegame.
 * Click the Write Everywhere buttom on the left-top (A circled "W").
 * Choose "CITY FONTS" tab.
