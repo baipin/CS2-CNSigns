@@ -11,7 +11,7 @@
     </transform>
     <imageMesh atlas="baipinCNS:MicroSigns">
       <mesh></mesh>
-      <image>Meet Go L</image>
+      <image>Allow U-Turn</image>
     </imageMesh>
     <defaultStyle>
       <color>FFFFFFFF</color>

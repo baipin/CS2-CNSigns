@@ -1,17 +1,17 @@
 <WELayout>
-  <self itemName="Direction sign">
+  <self itemName="Blue Background">
     <transform alignment="Left" arrayAxisOrder="XYZ">
-      <offsetPosition x="-0.07" y="1.895" z="0.0999999642" />
-      <offsetRotation x="-0" y="0" z="0" />
-      <scale x="0.9" y="0.9" z="1" />
+      <offsetPosition x="-0.610000432" y="7.2" z="-7.42" />
+      <offsetRotation x="-0" y="270" z="0" />
+      <scale x="3" y="3" z="1" />
       <mustDraw>1</mustDraw>
       <instanceCount>-1</instanceCount>
       <arrayInstances x="1" y="1" z="1" />
       <arraySpacing x="0" y="0" z="0" />
     </transform>
-    <imageMesh atlas="baipinUKS:Direction Signs">
+    <imageMesh atlas="baipinCNS:Direction Signs">
       <mesh></mesh>
-      <image>Highway_Empty_R_Small</image>
+      <image>Road Direction</image>
     </imageMesh>
     <defaultStyle>
       <color>FFFFFFFF</color>
@@ -29,9 +29,9 @@
   <children>
     <self itemName="Backside">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="0.114999995" y="0.004999997" z="-0.00500000967" />
-        <offsetRotation x="-0" y="180" z="0" />
-        <scale x="1.8" y="0.85" z="1" />
+        <offsetPosition x="-0.0100002885" y="-0.0499999523" z="-0.05000031" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="6.59" y="2.9" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
@@ -39,7 +39,7 @@
       </transform>
       <whiteMesh />
       <defaultStyle>
-        <color>8F8F8FFF</color>
+        <color>7A7A7AFF</color>
         <emissiveColor>FFFFFFFF</emissiveColor>
         <metallic>0</metallic>
         <smoothness>0</smoothness>
@@ -53,76 +53,18 @@
     </self>
   </children>
   <children>
-    <self itemName="Exit number">
+    <self itemName="Road Cross">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="-0.165000021" y="-0.154999986" z="0" />
-        <offsetRotation x="-0" y="359.949982" z="0" />
-        <scale x="0.3" y="0.3" z="1" />
-        <mustDraw>1</mustDraw>
-        <instanceCount>-1</instanceCount>
-        <arrayInstances x="1" y="1" z="1" />
-        <arraySpacing x="0" y="0" z="0" />
-      </transform>
-      <imageMesh atlas="baipinUKS:SmallMarks">
-        <mesh></mesh>
-        <image>Exit_Number</image>
-      </imageMesh>
-      <defaultStyle>
-        <color>FFFFFFFF</color>
-        <emissiveColor>FFFFFFFF</emissiveColor>
-        <metallic>0</metallic>
-        <smoothness>0</smoothness>
-        <emissiveIntensity>0</emissiveIntensity>
-        <emissiveExposureWeight>0</emissiveExposureWeight>
-        <coatStrength>0</coatStrength>
-        <colorMask1>FFFFFF</colorMask1>
-        <colorMask2>FFFFFF</colorMask2>
-        <colorMask3>FFFFFF</colorMask3>
-      </defaultStyle>
-    </self>
-    <children>
-      <self itemName="Number">
-        <transform alignment="Left" arrayAxisOrder="XYZ">
-          <offsetPosition x="-1.1920929E-07" y="-0.0225000381" z="0" />
-          <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.22" y="0.22" z="1" />
-          <mustDraw>1</mustDraw>
-          <instanceCount>-1</instanceCount>
-          <arrayInstances x="1" y="1" z="1" />
-          <arraySpacing x="0" y="0" z="0" />
-        </transform>
-        <textMesh fontName="Transport_Medium">
-          <text>19</text>
-          <MaxWidthMeters>0</MaxWidthMeters>
-        </textMesh>
-        <defaultStyle>
-          <color>FFFFFFFF</color>
-          <emissiveColor>FFFFFFFF</emissiveColor>
-          <metallic>0</metallic>
-          <smoothness>0</smoothness>
-          <emissiveIntensity>0</emissiveIntensity>
-          <emissiveExposureWeight>0</emissiveExposureWeight>
-          <coatStrength>0</coatStrength>
-          <colorMask1>FFFFFF</colorMask1>
-          <colorMask2>FFFFFF</colorMask2>
-          <colorMask3>FFFFFF</colorMask3>
-        </defaultStyle>
-      </self>
-    </children>
-  </children>
-  <children>
-    <self itemName="Destination 1">
-      <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="0.23499994" y="0.21" z="0.004999999" />
+        <offsetPosition x="0" y="-0.62" z="0" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="0.2" y="0.2" z="1" />
+        <scale x="0.18" y="0.18" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
-      <textMesh fontName="Transport_Medium">
-        <text>Manchester</text>
+      <textMesh fontName="Huiwenganghei">
+        <text>中山大道</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
       <defaultStyle>
@@ -140,18 +82,76 @@
     </self>
   </children>
   <children>
-    <self itemName="Destination 2">
+    <self itemName="Road M">
       <transform alignment="Left" arrayAxisOrder="XYZ">
-        <offsetPosition x="0.4699998" y="-0.172500014" z="0" />
+        <offsetPosition x="-0.04" y="0.919999957" z="0" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="0.2" y="0.2" z="1" />
+        <scale x="0.3" y="0.3" z="1" />
         <mustDraw>1</mustDraw>
         <instanceCount>-1</instanceCount>
         <arrayInstances x="1" y="1" z="1" />
         <arraySpacing x="0" y="0" z="0" />
       </transform>
-      <textMesh fontName="Transport_Medium">
-        <text>London</text>
+      <textMesh fontName="Huiwenganghei">
+        <text>南京南路</text>
+        <MaxWidthMeters>0</MaxWidthMeters>
+      </textMesh>
+      <defaultStyle>
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+  </children>
+  <children>
+    <self itemName="Road L">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="2.42" y="-0.59" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.3" y="0.3" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <textMesh fontName="Huiwenganghei">
+        <text>仁爱路</text>
+        <MaxWidthMeters>0</MaxWidthMeters>
+      </textMesh>
+      <defaultStyle>
+        <color>FFFFFFFF</color>
+        <emissiveColor>FFFFFFFF</emissiveColor>
+        <metallic>0</metallic>
+        <smoothness>0</smoothness>
+        <emissiveIntensity>0</emissiveIntensity>
+        <emissiveExposureWeight>0</emissiveExposureWeight>
+        <coatStrength>0</coatStrength>
+        <colorMask1>FFFFFF</colorMask1>
+        <colorMask2>FFFFFF</colorMask2>
+        <colorMask3>FFFFFF</colorMask3>
+      </defaultStyle>
+    </self>
+  </children>
+  <children>
+    <self itemName="Road R">
+      <transform alignment="Left" arrayAxisOrder="XYZ">
+        <offsetPosition x="-2.39999962" y="-0.609999955" z="0" />
+        <offsetRotation x="-0" y="0" z="0" />
+        <scale x="0.3" y="0.3" z="1" />
+        <mustDraw>1</mustDraw>
+        <instanceCount>-1</instanceCount>
+        <arrayInstances x="1" y="1" z="1" />
+        <arraySpacing x="0" y="0" z="0" />
+      </transform>
+      <textMesh fontName="Huiwenganghei">
+        <text>学院路</text>
         <MaxWidthMeters>0</MaxWidthMeters>
       </textMesh>
       <defaultStyle>

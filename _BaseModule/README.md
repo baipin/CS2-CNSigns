@@ -1,12 +1,13 @@
-# The module is under debelopment, but you can subscribe to take an early look!
+# The module is under development, but you can subscribe to take an early look!
 
 ### Outstanding Features
 * Covering various kinds of traffic signs in Chinese Mainland.
+* Made according to China National Standard GB_5768.2-2022.  
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
 
 ## Important: No Chinese font pre-existed, you need to import by yourself...
 Due to the copyright issue, please download Chinese font and import by yourself.  
-* Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
+* Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
 * Enter your savegame.
 * Click the Write Everywhere buttom on the left-top (A circled "W").
 * Choose "CITY FONTS" tab.

@@ -11,7 +11,7 @@
     </transform>
     <imageMesh atlas="baipinCNS:NoSigns">
       <mesh></mesh>
-      <image>NoBike</image>
+      <image>No Entry</image>
     </imageMesh>
     <defaultStyle>
       <color>FFFFFFFF</color>
