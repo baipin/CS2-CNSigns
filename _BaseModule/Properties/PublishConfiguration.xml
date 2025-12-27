@@ -2,15 +2,16 @@
   <ModId Value="127887" />
   <DisplayName Value="China Signs Pack 中国大陆路牌包[Write Everywhere]" />
   <ShortDescription Value="China Signs Pack based on Write Everywhere" />
-  <LongDescription># The module is under debelopment, but you can subscribe to take an early look!
+  <LongDescription># The module is under development, but you can subscribe to take an early look!
 
 ### Outstanding Features
 * Covering various kinds of traffic signs in Chinese Mainland.
+* Made according to China National Standard GB_5768.2-2022.  
 * **Very convenient to use.** The template is already there, and you just need to change the texts.
 
 ## Important: No Chinese font pre-existed, you need to import by yourself...
 Due to the copyright issue, please download Chinese font and import by yourself.  
-* Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
+* Copy the .ttf file to C:\Users\[Your username]\AppData\LocalLow\Colossal Order\Cities Skylines II\ModsData\\.Klyte45Mods\WriteEverywhere\fonts, if no "fonts"dictionary, please create one.
 * Enter your savegame.
 * Click the Write Everywhere buttom on the left-top (A circled "W").
 * Choose "CITY FONTS" tab.
@@ -46,10 +47,10 @@ There might be some differences for pre-layouts, but you can simply adjust manua
 [Highway Sign Frame Pack](https://mods.paradoxplaza.com/mods/127597/Any)</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/baipin-china-signs-pack.1887597/" />
-  <ModVersion Value="0.0.5" />
+  <ModVersion Value="0.0.6" />
   <GameVersion Value="1.5.*" />
-  <ChangeLog>#  v0.0.5
-- Finished the layouts for direction signs and lane signal.</ChangeLog>
+  <ChangeLog>#  v0.0.6
+- Fixed the problem that the sign backgace will not rendered by default according to Write Everywhere new change. This version fixed the problem by setting "rendering backface" specifically.</ChangeLog>
   <Tag Value="Code Mod" />
   <Screenshot Value="Screenshots\1.jpg" />
   <Screenshot Value="Screenshots\2.jpg" />
